@@ -18,8 +18,8 @@ What I'm planning to learn in the near future:
   - MySQL
   - Java
 
-I could list a thousand thing that i still have to learn, and that's the beauty of this profession, we are always in a constant learning and growing process. I believe this is one of the keys to have a long life with a health mind.
-Always beeing curious and ambicious with our learning is what keeps us motivate to continue to do a good work and dedicate ourselves to new knowledges.
+I could list a thousand things that i still have to learn, and that's the beauty of this profession, we are always in a constant learning and growing process. I believe this is one of the keys to have a long life with a healthy mind.
+Always beeing curious and ambicious with our learning is what keeps us motivated to continue to do a good work and dedicate ourselves to new knowledges.
 
   
 <!---
